@@ -1,4 +1,4 @@
-# Santander Bootcamp 2025 – Back-End com Python 🚀
+# Santander Bootcamp – Back-End com Python 🚀
 
 Este repositório reúne os projetos desenvolvidos ao longo do **Bootcamp Santander 2025 – Back-End com Python**, promovido pela [DIO (Digital Innovation One)](https://www.dio.me/) em parceria com o Santander.
 
