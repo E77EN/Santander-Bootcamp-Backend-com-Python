@@ -10,7 +10,7 @@ Durante essa jornada, aprofundei meus conhecimentos em **Python aplicado ao dese
 O bootcamp foi estruturado para desenvolver habilidades práticas, com desafios progressivos e projetos que simulam demandas reais do mercado. Ao longo da formação, desenvolvi:
 
 *   Uma API RESTful completa usando FastAPI e Docker
-*   **Diversos sistemas aplicando os pilares da Programação Orientada a Objetos (POO)**
+*   Diversos sistemas aplicando os pilares da Programação Orientada a Objetos (POO)
 *   Uma API com Test-Driven Development (TDD), aprendendo a escrever código testável, limpo e profissional
 
 Além disso, consolidei fundamentos como:
@@ -24,8 +24,8 @@ Além disso, consolidei fundamentos como:
 
 | Projeto                       | Descrição                                                                                             |
 | :---------------------------- | :---------------------------------------------------------------------------------------------------- |
-| **sistema-gestao-veiculos**   | **Implementação de uma classe para gerenciar veículos, aplicando conceitos de Orientação a Objetos.** |
-| **sistema-pedidos-restaurante** | **Calcula o total de um pedido com múltiplos itens, demonstrando manipulação de dados e POO.**      |
+|   sistema-gestao-veiculos     |   Implementação de uma classe para gerenciar veículos, aplicando conceitos de Orientação a Objetos.   |
+|   sistema-pedidos-restaurante |   Calcula o total de um pedido com múltiplos itens, demonstrando manipulação de dados e POO.          |
 | calculo-descontos-loja        | Aplica descontos com base em regras comerciais, simulando um sistema de checkout.                     |
 | carrinho-compras-python       | Script que simula um carrinho de compras com funcionalidades básicas.                                 |
 | sistema-bancario-python       | Sistema bancário orientado a objetos com operações de saque, depósito e extrato.                      |
