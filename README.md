@@ -22,14 +22,14 @@ Além disso, consolidei fundamentos como:
 
 📁 Projetos desenvolvidos:
 
-| Projeto                       | Descrição                                                                                             |
-| :---------------------------- | :---------------------------------------------------------------------------------------------------- |
-|   sistema-gestao-veiculos     |   Implementação de uma classe para gerenciar veículos, aplicando conceitos de Orientação a Objetos.   |
-|   sistema-pedidos-restaurante |   Calcula o total de um pedido com múltiplos itens, demonstrando manipulação de dados e POO.          |
-| calculo-descontos-loja        | Aplica descontos com base em regras comerciais, simulando um sistema de checkout.                     |
-| carrinho-compras-python       | Script que simula um carrinho de compras com funcionalidades básicas.                                 |
-| sistema-bancario-python       | Sistema bancário orientado a objetos com operações de saque, depósito e extrato.                      |
-| validar-email-python          | Validador de e-mails utilizando expressões regulares.                                                 |
+| Projeto                                                               | Descrição                                                                                             |
+| :-------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- |
+| [sistema-gestao-veiculos  ](./sistema-gestao-veiculos/)               | Implementação de uma classe para gerenciar veículos, aplicando conceitos de Orientação a Objetos.     |
+| [sistema-pedidos-restaurante  ](./sistema-pedidos-restaurante/)       | Calcula o total de um pedido com múltiplos itens, demonstrando manipulação de dados e POO.            |
+| [calculo-descontos-loja](./calculo-descontos-loja/)                   | Aplica descontos com base em regras comerciais, simulando um sistema de checkout.                     |
+| [carrinho-compras-python](./carrinho-compras-python/)                 | Script que simula um carrinho de compras com funcionalidades básicas.                                 |
+| [sistema-bancario-python](./sistema-bancario-python/)                 | Sistema bancário orientado a objetos com operações de saque, depósito e extrato.                      |
+| [validar-email-python](./validar-email-python/)                       | Validador de e-mails utilizando expressões regulares.                                                 |
 
 🧰 Tecnologias e Ferramentas
 *   Python 3.11
