@@ -20,7 +20,7 @@ Além disso, consolidei fundamentos como:
 *   Versionamento de código com Git e GitHub
 *   Organização e documentação de projetos
 
-📁 Alguns dos projetos desenvolvidos
+📁 Projetos desenvolvidos:
 
 | Projeto                       | Descrição                                                                                             |
 | :---------------------------- | :---------------------------------------------------------------------------------------------------- |
