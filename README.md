@@ -1,26 +1,20 @@
 # Santander Bootcamp – Back-End com Python 🚀
 
-Este repositório reúne os projetos desenvolvidos ao longo do **Bootcamp Santander 2025 – Back-End com Python**, promovido pela [DIO (Digital Innovation One)](https://www.dio.me/) em parceria com o Santander.
+Este repositório reúne os desafios de código e projetos iniciais desenvolvidos durante o **Bootcamp Santander 2025 – Back-End com Python**, uma parceria entre a DIO (Digital Innovation One) e o Santander.
 
-Durante essa jornada, aprofundei meus conhecimentos em **Python aplicado ao desenvolvimento back-end**, com foco em criação de APIs, programação orientada a objetos e testes automatizados.
+O objetivo aqui é documentar minha evolução nos fundamentos do Python, aplicando conceitos essenciais em pequenos projetos práticos.
 
----
+### 🌟 Sobre a Jornada de Aprendizado
 
-🌟 Sobre o Bootcamp
-O bootcamp foi estruturado para desenvolver habilidades práticas, com desafios progressivos e projetos que simulam demandas reais do mercado. Ao longo da formação, desenvolvi:
+O bootcamp foi estruturado para construir uma base sólida em Python, com desafios progressivos que simulam problemas do dia a dia. Ao longo desta formação, consolidei conhecimentos em:
 
-*   Uma API RESTful completa usando FastAPI e Docker
-*   Diversos sistemas aplicando os pilares da Programação Orientada a Objetos (POO)
-*   Uma API com Test-Driven Development (TDD), aprendendo a escrever código testável, limpo e profissional
+*   Lógica de programação e pensamento computacional.
+*   Estruturas de dados, laços de repetição e condicionais.
+*   Fundamentos da Programação Orientada a Objetos (POO).
+*   Modularização e boas práticas de código em Python.
+*   Versionamento de código com Git e GitHub.
 
-Além disso, consolidei fundamentos como:
-
-*   Estruturas de dados e controle de fluxo
-*   Modularização e boas práticas em Python
-*   Versionamento de código com Git e GitHub
-*   Organização e documentação de projetos
-
-📁 Projetos desenvolvidos:
+### 📁 Projetos desenvolvidos:
 
 | Projeto                                                               | Descrição                                                                                             |
 | :-------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- |
@@ -31,14 +25,13 @@ Além disso, consolidei fundamentos como:
 | [sistema-bancario-python](./sistema-bancario-python/)                 | Sistema bancário orientado a objetos com operações de saque, depósito e extrato.                      |
 | [validar-email-python](./validar-email-python/)                       | Validador de e-mails utilizando expressões regulares.                                                 |
 
-🧰 Tecnologias e Ferramentas
-*   Python 3.11
-*   FastAPI
-*   Docker
-*   Pytest (TDD)
-*   Git & GitHub
-*   VSCode & GitHub Codespaces
-*   Markdown
+### 🧰 Tecnologias e Ferramentas
 
-💡 Minha jornada
-Cada projeto aqui representa um passo importante no meu desenvolvimento como programadora. Pude colocar em prática conceitos essenciais do backend e aprender na prática como estruturar aplicações reais. A documentação, organização dos diretórios e uso do Git foram cuidados para deixar o repositório útil e bem apresentado.💻✨
+*   **Python 3**
+*   **Git & GitHub**
+*   **VSCode**
+*   **Markdown**
+
+### 💡 Minha Evolução
+
+Cada projeto aqui representa um passo importante no meu desenvolvimento. Eles foram essenciais para colocar a teoria em prática e aprender a estruturar soluções para problemas lógicos. A organização e a documentação foram pensadas para criar um registro claro do meu aprendizado. 💻✨
